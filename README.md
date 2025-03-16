@@ -29,6 +29,11 @@ The News Portal Project is a web application built using PHP and MySQL that allo
   - Username: `subadmin`
   - Password: `Test@123`
 
+## Images
+![HOMEPAGE](images/news1.png)
+![ADMIN](images/news2.png)
+![ADMIN DASHBOARD](images/news3.png)
+
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request.
 
